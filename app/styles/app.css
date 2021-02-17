@@ -7,6 +7,18 @@ h1 {
     display: flex;
     justify-content: center;
     margin: 5rem 0 2rem 0;
+    font-size: 3rem;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    margin: 2rem 0 2rem 0;
+    font-size: 2rem;
+}
+
+a {
+    text-decoration: none;
 }
 
 button {
@@ -14,10 +26,10 @@ button {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    /* align-items: center; */
     height: 3rem;
     width: 5rem;
     margin: 1rem auto;
-    background: crimson;
+    padding-top: 0.25rem;
+    background: darkslateblue;
     font-size: 2rem;
 }
