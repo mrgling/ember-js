@@ -15,7 +15,5 @@ Du behöver detta för att kunna köra applikationen:
 
 ## Starta
 
-* `ember serve`  
-<em>alternativt</em>
-* `npm start`
+* `ember serve` <em>alternativt</em> `npm start`
 * Gå till: [http://localhost:4200](http://localhost:4200)
