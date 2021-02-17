@@ -1,0 +1,23 @@
+* {
+    background: rgb(36, 34, 54);
+    color: white;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    margin: 5rem 0 2rem 0;
+}
+
+button {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* align-items: center; */
+    height: 3rem;
+    width: 5rem;
+    margin: 1rem auto;
+    background: crimson;
+    font-size: 2rem;
+}
