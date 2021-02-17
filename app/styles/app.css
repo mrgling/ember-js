@@ -1,5 +1,5 @@
 * {
-    background: rgb(36, 34, 54);
+    background: darkslategray;
     color: white;
 }
 
@@ -30,6 +30,6 @@ button {
     width: 5rem;
     margin: 1rem auto;
     padding-top: 0.25rem;
-    background: darkslateblue;
+    background: firebrick;
     font-size: 2rem;
 }
