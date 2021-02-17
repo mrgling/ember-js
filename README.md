@@ -1,6 +1,6 @@
-# Test-app ember.js
+# ember.js Test-app
 
-# Förkrav
+## Förkrav
 
 Du behöver detta för att kunna köra applikationen:
 
@@ -15,4 +15,4 @@ Du behöver detta för att kunna köra applikationen:
 ## Starta
 
 * `npm start`
-* Gå till: [http://localhost:4200](http://localhost:4200).
+* Gå till: [http://localhost:4200](http://localhost:4200)
