@@ -1,6 +1,10 @@
 # ember.js
 ## Test-app
 
+## Dokument
+
+I mappen "documents" finns presentation samt rapport i PDF-format.
+
 ## Förkrav
 
 Du behöver detta för att kunna köra applikationen:
